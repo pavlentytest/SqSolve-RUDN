@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Квадратное уравнение</string>
+    <string name="k_a">Коэффициент А</string>
+    <string name="k_b">Коэффициент B</string>
+    <string name="k_c">Коэффициент C</string>
+    <string name="btn_name">Решить</string>
+
+</resources>
